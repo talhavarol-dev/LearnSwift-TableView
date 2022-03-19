@@ -1,6 +1,8 @@
 # LearnSwift-TableView
 <h3> landmarkBook <h3>
-  ![landmarkBook](https://user-images.githubusercontent.com/80515499/159126210-936d88ec-39d1-4d86-bf6a-43a1975e3133.gif)
+ ![landmarkBook](https://user-images.githubusercontent.com/80515499/159126264-a9e67195-b530-48f1-b8ec-f29ee4c2844a.gif)
+
 
 <h3> simpsonsBook <h3>
-  ![simpsonsBook](https://user-images.githubusercontent.com/80515499/159126200-1a224e1f-ff05-408f-9f7e-43905cca1360.gif)
+   ![simpsonsBook](https://user-images.githubusercontent.com/80515499/159126246-2021783d-28c0-446c-9007-a046a4370167.gif)
+  
